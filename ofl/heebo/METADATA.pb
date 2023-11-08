@@ -27,3 +27,4 @@ source {
   repository_url: "https://github.com/OdedEzer/heebo"
   commit: "09b706ecfcf66c4559d4c8b8c95be9cad2a166cb"
 }
+stroke: "SANS_SERIF"
