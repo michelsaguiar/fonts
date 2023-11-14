@@ -2,7 +2,6 @@ name: "Noto Sans Mono"
 designer: "Google"
 license: "OFL"
 category: "SANS_SERIF"
-category: "MONOSPACE"
 date_added: "2020-11-19"
 fonts {
   name: "Noto Sans Mono"
@@ -33,7 +32,7 @@ axes {
 }
 source {
   repository_url: "https://github.com/notofonts/latin-greek-cyrillic.git"
-  archive_url: "https://github.com/notofonts/latin-greek-cyrillic/releases/download/NotoSansMono-v2.013/NotoSansMono-v2.013.zip"
+  archive_url: "https://github.com/notofonts/latin-greek-cyrillic/releases/download/NotoSansMono-v2.014/NotoSansMono-v2.014.zip"
 }
 is_noto: true
 languages: "aa_Latn"  # Afar
@@ -43,7 +42,7 @@ languages: "abr_Latn"  # Abron
 languages: "ace_Latn"  # Achinese
 languages: "acf_Latn"  # Saint Lucian Creole French, Latin
 languages: "ach_Latn"  # Acoli
-languages: "acu_Latn"  # Achuar-Shiwiar, Latin, Ecuador
+languages: "acu_Latn"  # Achuar-Shiwiar
 languages: "ada_Latn"  # Adangme
 languages: "adl_Latn"  # Galo, Latin
 languages: "ady_Cyrl"  # Adyghe
@@ -76,7 +75,7 @@ languages: "arw_Latn"  # Arawak
 languages: "asa_Latn"  # Asu
 languages: "ast_Latn"  # Asturian
 languages: "atj_Latn"  # Atikamekw
-languages: "auc_Latn"  # Waorani, Latin, Ecuador
+languages: "auc_Latn"  # Waorani
 languages: "av_Cyrl"  # Avaric
 languages: "avk_Latn"  # Kotava
 languages: "ay_Latn"  # Aymara
@@ -450,7 +449,7 @@ languages: "lzz_Latn"  # Laz, Latin
 languages: "mad_Latn"  # Madurese
 languages: "maf_Latn"  # Mafa
 languages: "mak_Latn"  # Makasar
-languages: "mam_Latn"  # Mam, Northern
+languages: "mam_Latn"  # Mam
 languages: "man_Latn"  # Mandingo
 languages: "mas_Latn"  # Masai
 languages: "maz_Latn"  # Central Mazahua
@@ -640,7 +639,7 @@ languages: "sbp_Latn"  # Sangu
 languages: "sc_Latn"  # Sardinian
 languages: "scn_Latn"  # Sicilian
 languages: "sco_Latn"  # Scots
-languages: "scs_Latn"  # North Slavey
+languages: "scs_Latn"  # South Slavey
 languages: "sdc_Latn"  # Sassarese Sardinian
 languages: "se_Cyrl"  # Northern Sami, Cyrillic
 languages: "se_Latn"  # Northern Sami
@@ -813,3 +812,5 @@ languages: "ztu_Latn"  # Zapotec, Güilá
 languages: "zu_Latn"  # Zulu
 languages: "zun_Latn"  # Zuni
 languages: "zza_Latn"  # Zaza
+stroke: "SANS_SERIF"
+classifications: "MONOSPACE"

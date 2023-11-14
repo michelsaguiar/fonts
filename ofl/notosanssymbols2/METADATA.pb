@@ -12,13 +12,16 @@ fonts {
   full_name: "Noto Sans Symbols 2 Regular"
   copyright: "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/symbols)"
 }
+subsets: "braille"
 subsets: "latin"
 subsets: "latin-ext"
+subsets: "math"
+subsets: "mayan-numerals"
 subsets: "menu"
 subsets: "symbols"
 source {
   repository_url: "https://github.com/notofonts/symbols.git"
-  archive_url: "https://github.com/notofonts/symbols/releases/download/NotoSansSymbols2-v2.006/NotoSansSymbols2-v2.006.zip"
+  archive_url: "https://github.com/notofonts/symbols/releases/download/NotoSansSymbols2-v2.008/NotoSansSymbols2-v2.008.zip"
 }
 is_noto: true
 sample_text {
@@ -30,3 +33,5 @@ sample_text {
   poster_md: "⌚✋⯧☔🛪🏟⛅🞽🕖🚲"
   poster_lg: "🡽🨄"
 }
+stroke: "SANS_SERIF"
+classifications: "SYMBOLS"
